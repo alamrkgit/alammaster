@@ -1,3 +1,4 @@
+TES1
 <?php
 # KONTROL MENU PROGRAM
 if($_GET) {
